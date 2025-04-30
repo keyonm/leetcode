@@ -57,6 +57,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/keyonm/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/keyonm/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
@@ -75,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -106,6 +108,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/keyonm/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
