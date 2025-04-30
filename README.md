@@ -11,6 +11,7 @@
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0256-paint-house](https://github.com/keyonm/leetcode/tree/master/0256-paint-house) |
 | [0283-move-zeroes](https://github.com/keyonm/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/keyonm/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/keyonm/leetcode/tree/master/0605-can-place-flowers) |
@@ -81,6 +82,7 @@
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0256-paint-house](https://github.com/keyonm/leetcode/tree/master/0256-paint-house) |
 | [0338-counting-bits](https://github.com/keyonm/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0747-min-cost-climbing-stairs) |
