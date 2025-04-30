@@ -87,6 +87,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/keyonm/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1236-n-th-tribonacci-number](https://github.com/keyonm/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keyonm/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2562-count-ways-to-build-good-strings](https://github.com/keyonm/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Sorting
 |  |
 | ------- |
