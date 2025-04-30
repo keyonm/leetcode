@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
+| [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/keyonm/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
@@ -24,4 +25,8 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/keyonm/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
