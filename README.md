@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/keyonm/leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
+| [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keyonm/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/keyonm/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/keyonm/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/keyonm/leetcode/tree/master/1236-n-th-tribonacci-number) |
