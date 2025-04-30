@@ -14,6 +14,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/keyonm/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/keyonm/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/keyonm/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/keyonm/leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
