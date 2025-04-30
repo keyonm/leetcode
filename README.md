@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/keyonm/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
