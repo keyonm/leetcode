@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/keyonm/leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/keyonm/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/keyonm/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/keyonm/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0747-min-cost-climbing-stairs) |
