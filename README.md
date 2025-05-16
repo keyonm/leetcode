@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/keyonm/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/keyonm/leetcode/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/keyonm/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/keyonm/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keyonm/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/keyonm/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
