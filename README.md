@@ -194,6 +194,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/keyonm/leetcode/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -207,4 +208,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/keyonm/leetcode/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
