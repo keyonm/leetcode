@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/keyonm/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keyonm/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/keyonm/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
@@ -65,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/keyonm/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/keyonm/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -105,6 +108,7 @@
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/keyonm/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0256-paint-house](https://github.com/keyonm/leetcode/tree/master/0256-paint-house) |
 | [0300-longest-increasing-subsequence](https://github.com/keyonm/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -151,6 +155,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/keyonm/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
@@ -178,4 +183,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/keyonm/leetcode/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
