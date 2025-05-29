@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/keyonm/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/keyonm/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/keyonm/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,12 +104,14 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/keyonm/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/keyonm/leetcode/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/keyonm/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/keyonm/leetcode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keyonm/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/keyonm/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/keyonm/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/keyonm/leetcode/tree/master/0091-decode-ways) |
