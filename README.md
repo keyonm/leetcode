@@ -200,6 +200,7 @@
 | [0133-clone-graph](https://github.com/keyonm/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
 | [0322-coin-change](https://github.com/keyonm/leetcode/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -219,11 +220,13 @@
 | [0133-clone-graph](https://github.com/keyonm/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/keyonm/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -232,4 +235,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
 <!---LeetCode Topics End-->
