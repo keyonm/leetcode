@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/keyonm/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/keyonm/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keyonm/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/keyonm/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/keyonm/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/keyonm/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
@@ -237,6 +239,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/keyonm/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/keyonm/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
