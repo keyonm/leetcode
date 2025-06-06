@@ -13,6 +13,7 @@
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/keyonm/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/keyonm/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/keyonm/leetcode/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/keyonm/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/keyonm/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
