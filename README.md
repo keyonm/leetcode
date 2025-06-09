@@ -26,6 +26,7 @@
 | [0213-house-robber-ii](https://github.com/keyonm/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/keyonm/leetcode/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keyonm/leetcode/tree/master/0283-move-zeroes) |
@@ -67,6 +68,7 @@
 | [0015-3sum](https://github.com/keyonm/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keyonm/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/keyonm/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/keyonm/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/keyonm/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
@@ -102,6 +104,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/keyonm/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/keyonm/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/keyonm/leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -110,6 +113,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/keyonm/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/keyonm/leetcode/tree/master/0055-jump-game) |
+| [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/keyonm/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/keyonm/leetcode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
@@ -147,6 +151,7 @@
 | [0056-merge-intervals](https://github.com/keyonm/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
+| [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -245,4 +250,8 @@
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/keyonm/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
