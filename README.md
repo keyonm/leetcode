@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keyonm/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/keyonm/leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,4 +256,8 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/keyonm/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
