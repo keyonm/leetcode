@@ -15,6 +15,7 @@
 | [0055-jump-game](https://github.com/keyonm/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/keyonm/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/keyonm/leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/keyonm/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/keyonm/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/keyonm/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/keyonm/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/keyonm/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
@@ -194,6 +196,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/keyonm/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/keyonm/leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Linked List
