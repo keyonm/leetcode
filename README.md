@@ -69,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keyonm/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/keyonm/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/keyonm/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keyonm/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -84,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keyonm/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/keyonm/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/keyonm/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -125,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keyonm/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/keyonm/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/keyonm/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/keyonm/leetcode/tree/master/0062-unique-paths) |
