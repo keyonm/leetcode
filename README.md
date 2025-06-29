@@ -32,6 +32,7 @@
 | [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/keyonm/leetcode/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
+| [0271-encode-and-decode-strings](https://github.com/keyonm/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/keyonm/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/keyonm/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/keyonm/leetcode/tree/master/0322-coin-change) |
@@ -90,6 +91,7 @@
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/keyonm/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/keyonm/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/keyonm/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/keyonm/leetcode/tree/master/0443-string-compression) |
@@ -284,4 +286,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/keyonm/leetcode/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/keyonm/leetcode/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
