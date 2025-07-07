@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keyonm/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/keyonm/leetcode/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/keyonm/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/keyonm/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
@@ -331,4 +332,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/keyonm/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
