@@ -32,6 +32,7 @@
 | [0213-house-robber-ii](https://github.com/keyonm/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/keyonm/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/keyonm/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/keyonm/leetcode/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
@@ -182,6 +183,7 @@
 | [0056-merge-intervals](https://github.com/keyonm/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/keyonm/leetcode/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
