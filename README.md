@@ -36,6 +36,7 @@
 | [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/keyonm/leetcode/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/keyonm/leetcode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/keyonm/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/keyonm/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/keyonm/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -108,6 +109,7 @@
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/keyonm/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
+| [0269-alien-dictionary](https://github.com/keyonm/leetcode/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/keyonm/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/keyonm/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
@@ -262,6 +264,7 @@
 | [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/keyonm/leetcode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/keyonm/leetcode/tree/master/0269-alien-dictionary) |
 | [0322-coin-change](https://github.com/keyonm/leetcode/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/keyonm/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Trie
@@ -289,6 +292,7 @@
 | [0226-invert-binary-tree](https://github.com/keyonm/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/keyonm/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/keyonm/leetcode/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/keyonm/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Graph
@@ -297,11 +301,13 @@
 | [0133-clone-graph](https://github.com/keyonm/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/keyonm/leetcode/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/keyonm/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/keyonm/leetcode/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/keyonm/leetcode/tree/master/0269-alien-dictionary) |
 ## Union Find
 |  |
 | ------- |
