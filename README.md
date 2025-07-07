@@ -251,6 +251,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/keyonm/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/keyonm/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/keyonm/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Graph
 |  |
 | ------- |
@@ -295,6 +296,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/keyonm/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -303,4 +305,13 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/keyonm/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
