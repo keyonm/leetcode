@@ -66,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/keyonm/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/keyonm/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1319-unique-number-of-occurrences](https://github.com/keyonm/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/keyonm/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -103,6 +104,7 @@
 | [0271-encode-and-decode-strings](https://github.com/keyonm/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/keyonm/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/keyonm/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/keyonm/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/keyonm/leetcode/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/keyonm/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/keyonm/leetcode/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/keyonm/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/keyonm/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/keyonm/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/keyonm/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
