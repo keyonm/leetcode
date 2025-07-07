@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/keyonm/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/keyonm/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/keyonm/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/keyonm/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +99,7 @@
 | [0020-valid-parentheses](https://github.com/keyonm/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/keyonm/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/keyonm/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/keyonm/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/keyonm/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/keyonm/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/keyonm/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/keyonm/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/keyonm/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/keyonm/leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Linked List
@@ -260,6 +263,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/keyonm/leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/keyonm/leetcode/tree/master/0079-word-search) |
 ## Combinatorics
 |  |
 | ------- |
@@ -267,6 +271,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/keyonm/leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/keyonm/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/keyonm/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/keyonm/leetcode/tree/master/0133-clone-graph) |
