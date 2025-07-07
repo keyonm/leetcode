@@ -74,6 +74,7 @@
 | [0011-container-with-most-water](https://github.com/keyonm/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/keyonm/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/keyonm/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/keyonm/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/keyonm/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/keyonm/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0253-meeting-rooms-ii](https://github.com/keyonm/leetcode/tree/master/0253-meeting-rooms-ii) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keyonm/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/keyonm/leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/keyonm/leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/keyonm/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/keyonm/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/keyonm/leetcode/tree/master/0242-valid-anagram) |
