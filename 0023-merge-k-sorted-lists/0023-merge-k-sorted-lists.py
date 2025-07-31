@@ -1,8 +1,3 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class HeapNode:
     def __init__(self, node):
         self.node = node
@@ -31,4 +26,3 @@ class Solution:
                 heapq.heappush(heap, HeapNode(node.next))
 
         return dummy.next
-        
