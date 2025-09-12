@@ -49,6 +49,7 @@
 | [0435-non-overlapping-intervals](https://github.com/keyonm/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/keyonm/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/keyonm/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [0724-find-pivot-index](https://github.com/keyonm/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/keyonm/leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -100,6 +101,7 @@
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/keyonm/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/keyonm/leetcode/tree/master/0647-palindromic-substrings) |
+| [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/keyonm/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -252,6 +254,7 @@
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/keyonm/leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/keyonm/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [0967-minimum-falling-path-sum](https://github.com/keyonm/leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Linked List
 |  |
@@ -356,6 +359,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/keyonm/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/keyonm/leetcode/tree/master/0068-text-justification) |
+| [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 ## Design
 |  |
 | ------- |
