@@ -148,6 +148,7 @@
 | [0371-sum-of-two-integers](https://github.com/keyonm/leetcode/tree/master/0371-sum-of-two-integers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/keyonm/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/keyonm/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2645-pass-the-pillow](https://github.com/keyonm/leetcode/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -365,6 +366,7 @@
 | [0068-text-justification](https://github.com/keyonm/leetcode/tree/master/0068-text-justification) |
 | [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
+| [2645-pass-the-pillow](https://github.com/keyonm/leetcode/tree/master/2645-pass-the-pillow) |
 ## Design
 |  |
 | ------- |
