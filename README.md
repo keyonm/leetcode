@@ -61,6 +61,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keyonm/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/keyonm/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 | [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -85,6 +86,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/keyonm/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 | [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
@@ -362,10 +364,12 @@
 | [0054-spiral-matrix](https://github.com/keyonm/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/keyonm/leetcode/tree/master/0068-text-justification) |
 | [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
+| [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 ## Design
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/keyonm/leetcode/tree/master/0271-encode-and-decode-strings) |
+| [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 ## Tree
 |  |
 | ------- |
