@@ -30,13 +30,10 @@ class Solution:
         def drop():
             for c in range(n):
                 lowest_zero = -1
-
-                # Iterate over each column
                 for r in range(m - 1, -1, -1):
                     if board[r][c] == 0:
                         lowest_zero = max(lowest_zero, r)
 
-                    # Swap current non-zero candy with the lowest zero.
                     elif lowest_zero >= 0:
                         board[r][c], board[lowest_zero][c] = board[lowest_zero][c], board[r][c]
                         lowest_zero -= 1
