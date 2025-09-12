@@ -61,6 +61,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keyonm/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/keyonm/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -84,6 +85,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/keyonm/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
@@ -407,4 +409,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/keyonm/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
 <!---LeetCode Topics End-->
