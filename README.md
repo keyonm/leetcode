@@ -64,6 +64,7 @@
 | [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 | [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/keyonm/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 | [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/keyonm/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/keyonm/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/keyonm/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/keyonm/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [0967-minimum-falling-path-sum](https://github.com/keyonm/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/keyonm/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Linked List
 |  |
 | ------- |
