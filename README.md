@@ -118,6 +118,7 @@
 | [0020-valid-parentheses](https://github.com/keyonm/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/keyonm/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/keyonm/leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/keyonm/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/keyonm/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/keyonm/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/keyonm/leetcode/tree/master/0091-decode-ways) |
@@ -411,6 +412,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keyonm/leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/keyonm/leetcode/tree/master/0071-simplify-path) |
 ## Bucket Sort
 |  |
 | ------- |
