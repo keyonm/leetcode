@@ -4,16 +4,16 @@ class Solution:
 
         def find():
             crushed_set = set()
-            for r in range(1, m - 1):
-                for c in range(n):
+            for r in range (1, m - 1):
+                for c in range (n):
                     if board[r][c] == 0:
                         continue
-                    if board[r][c] == board[r - 1][c] == board[r + 1][c]: 
+                    if board[r][c] == board[r - 1][c] == board[r + 1][c]:
                         crushed_set.add((r, c))
                         crushed_set.add((r - 1, c))
                         crushed_set.add((r + 1, c))
 
-            for r in range(m):
+            for r in range(m):  
                 for c in range(1, n - 1):
                     if board[r][c] == 0:
                         continue
@@ -33,7 +33,6 @@ class Solution:
                 for r in range(m - 1, -1, -1):
                     if board[r][c] == 0:
                         lowest_zero = max(lowest_zero, r)
-
                     elif lowest_zero >= 0:
                         board[r][c], board[lowest_zero][c] = board[lowest_zero][c], board[r][c]
                         lowest_zero -= 1
