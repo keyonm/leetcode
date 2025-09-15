@@ -21,6 +21,7 @@
 | [0068-text-justification](https://github.com/keyonm/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/keyonm/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/keyonm/leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/keyonm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/keyonm/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/keyonm/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keyonm/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -413,6 +414,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/keyonm/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/keyonm/leetcode/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/keyonm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -425,4 +427,8 @@
 |  |
 | ------- |
 | [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/keyonm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
