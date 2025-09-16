@@ -65,6 +65,7 @@
 | [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/keyonm/leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/keyonm/leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/keyonm/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Hash Table
@@ -406,10 +407,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/keyonm/leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/keyonm/leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Stack
 |  |
 | ------- |
@@ -432,4 +435,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/keyonm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Rolling Hash
+|  |
+| ------- |
+| [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/keyonm/leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
