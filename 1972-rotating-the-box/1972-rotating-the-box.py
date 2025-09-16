@@ -12,7 +12,6 @@ class Solution:
         for j in range(m):
             lowest_row_with_empty_cell = n - 1
             for i in range(n - 1, -1, -1):
-                # Found a stone - let it fall to the lowest empty cell
                 if result[i][j] == "#":
                     result[i][j] = "."
                     result[lowest_row_with_empty_cell][j] = "#"
