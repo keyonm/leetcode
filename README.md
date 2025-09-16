@@ -62,6 +62,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/keyonm/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/keyonm/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1972-rotating-the-box](https://github.com/keyonm/leetcode/tree/master/1972-rotating-the-box) |
 | [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/keyonm/leetcode/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2889-number-of-black-blocks](https://github.com/keyonm/leetcode/tree/master/2889-number-of-black-blocks) |
@@ -113,6 +114,7 @@
 | [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/keyonm/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/keyonm/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/keyonm/leetcode/tree/master/1972-rotating-the-box) |
 ## String
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/keyonm/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [0967-minimum-falling-path-sum](https://github.com/keyonm/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1972-rotating-the-box](https://github.com/keyonm/leetcode/tree/master/1972-rotating-the-box) |
 | [3335-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/keyonm/leetcode/tree/master/3335-minimum-operations-to-write-the-letter-y-on-a-grid) |
 ## Linked List
 |  |
