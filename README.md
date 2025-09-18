@@ -59,6 +59,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/keyonm/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/keyonm/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/keyonm/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/keyonm/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/keyonm/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/keyonm/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/keyonm/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -91,6 +92,7 @@
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/keyonm/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/keyonm/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1207-delete-nodes-and-return-forest](https://github.com/keyonm/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1319-unique-number-of-occurrences](https://github.com/keyonm/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/keyonm/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -348,6 +350,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/keyonm/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/keyonm/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/keyonm/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Graph
 |  |
 | ------- |
@@ -406,6 +409,7 @@
 | [0226-invert-binary-tree](https://github.com/keyonm/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/keyonm/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/keyonm/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -420,6 +424,7 @@
 | [0226-invert-binary-tree](https://github.com/keyonm/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/keyonm/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/keyonm/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 ## String Matching
 |  |
 | ------- |
