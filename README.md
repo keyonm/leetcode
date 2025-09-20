@@ -168,6 +168,7 @@
 | [0009-palindrome-number](https://github.com/keyonm/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/keyonm/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/keyonm/leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/keyonm/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/keyonm/leetcode/tree/master/0343-integer-break) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keyonm/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keyonm/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/keyonm/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keyonm/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/keyonm/leetcode/tree/master/0300-longest-increasing-subsequence) |
