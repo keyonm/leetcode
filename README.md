@@ -13,6 +13,7 @@
 | [0018-4sum](https://github.com/keyonm/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/keyonm/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/keyonm/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/keyonm/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/keyonm/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/keyonm/leetcode/tree/master/0042-trapping-rain-water) |
@@ -85,6 +86,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/keyonm/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keyonm/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/keyonm/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/keyonm/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/keyonm/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -300,6 +302,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/keyonm/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/keyonm/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/keyonm/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/keyonm/leetcode/tree/master/0073-set-matrix-zeroes) |
