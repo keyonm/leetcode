@@ -1,13 +1,9 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
-        Dutch National Flag problem solution.
+        Do not return anything, modify nums in-place instead.
         """
-        # For all idx < p0 : nums[idx < p0] = 0
-        # curr is an index of elements under consideration
         p0 = curr = 0
-
-        # For all idx > p2 : nums[idx > p2] = 2
         p2 = len(nums) - 1
 
         while curr <= p2:
