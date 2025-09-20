@@ -1,14 +1,9 @@
-class Solution(object):
-    def maxSubArray(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        answer = nums[0]
-        curr = nums[0]
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        highest = curr = nums[0]
 
-        for i in range(len(nums))[1:]:
-            curr = max(nums[i], curr + nums[i])
-            answer = max(answer, curr)
+        for num in nums[1:]:
+            curr = max(num, curr + num)
+            highest = max(highest, curr)
 
-        return answer
+        return highest
