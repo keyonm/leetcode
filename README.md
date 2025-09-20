@@ -99,6 +99,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/keyonm/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/keyonm/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/keyonm/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/keyonm/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/keyonm/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/keyonm/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -158,6 +159,7 @@
 | [0647-palindromic-substrings](https://github.com/keyonm/leetcode/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/keyonm/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/keyonm/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/keyonm/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/keyonm/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/keyonm/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/keyonm/leetcode/tree/master/1894-merge-strings-alternately) |
