@@ -189,6 +189,7 @@
 | [0070-climbing-stairs](https://github.com/keyonm/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/keyonm/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/keyonm/leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/keyonm/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/keyonm/leetcode/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/keyonm/leetcode/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/keyonm/leetcode/tree/master/0371-sum-of-two-integers) |
