@@ -170,6 +170,7 @@
 | [0443-string-compression](https://github.com/keyonm/leetcode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/keyonm/leetcode/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/keyonm/leetcode/tree/master/0647-palindromic-substrings) |
+| [0812-rotate-string](https://github.com/keyonm/leetcode/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/keyonm/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/keyonm/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/keyonm/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -477,6 +478,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/keyonm/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/keyonm/leetcode/tree/master/0812-rotate-string) |
 | [3269-number-of-subarrays-that-match-a-pattern-i](https://github.com/keyonm/leetcode/tree/master/3269-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
