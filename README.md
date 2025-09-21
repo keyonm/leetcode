@@ -58,6 +58,7 @@
 | [0347-top-k-frequent-elements](https://github.com/keyonm/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/keyonm/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/keyonm/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0498-diagonal-traverse](https://github.com/keyonm/leetcode/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/keyonm/leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/keyonm/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/keyonm/leetcode/tree/master/0605-can-place-flowers) |
@@ -320,6 +321,7 @@
 | [0200-number-of-islands](https://github.com/keyonm/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/keyonm/leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/keyonm/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/keyonm/leetcode/tree/master/0498-diagonal-traverse) |
 | [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [0967-minimum-falling-path-sum](https://github.com/keyonm/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1972-rotating-the-box](https://github.com/keyonm/leetcode/tree/master/1972-rotating-the-box) |
@@ -436,6 +438,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/keyonm/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/keyonm/leetcode/tree/master/0068-text-justification) |
+| [0498-diagonal-traverse](https://github.com/keyonm/leetcode/tree/master/0498-diagonal-traverse) |
 | [0723-candy-crush](https://github.com/keyonm/leetcode/tree/master/0723-candy-crush) |
 | [2169-simple-bank-system](https://github.com/keyonm/leetcode/tree/master/2169-simple-bank-system) |
 | [2645-pass-the-pillow](https://github.com/keyonm/leetcode/tree/master/2645-pass-the-pillow) |
