@@ -3,6 +3,8 @@ class Solution:
         if len(s) != len(goal):
             return False
 
-        double = s + s
+        for i in range(len(s)):
+            if goal == (s[i:] + s[:i]):
+                return True
 
-        return double.find(goal) != -1
+        return False
