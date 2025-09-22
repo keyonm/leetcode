@@ -154,6 +154,7 @@
 | [0010-regular-expression-matching](https://github.com/keyonm/leetcode/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/keyonm/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/keyonm/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/keyonm/leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/keyonm/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/keyonm/leetcode/tree/master/0071-simplify-path) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keyonm/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/keyonm/leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/keyonm/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/keyonm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/keyonm/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/keyonm/leetcode/tree/master/0055-jump-game) |
@@ -378,6 +380,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/keyonm/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/keyonm/leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/keyonm/leetcode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/keyonm/leetcode/tree/master/0212-word-search-ii) |
