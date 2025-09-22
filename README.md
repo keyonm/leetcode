@@ -174,6 +174,7 @@
 | [0271-encode-and-decode-strings](https://github.com/keyonm/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/keyonm/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/keyonm/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/keyonm/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/keyonm/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/keyonm/leetcode/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/keyonm/leetcode/tree/master/0539-minimum-time-difference) |
@@ -445,6 +446,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/keyonm/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/keyonm/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/keyonm/leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/keyonm/leetcode/tree/master/0394-decode-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -507,6 +509,7 @@
 | [0042-trapping-rain-water](https://github.com/keyonm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/keyonm/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keyonm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/keyonm/leetcode/tree/master/0394-decode-string) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/keyonm/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Bucket Sort
 |  |
