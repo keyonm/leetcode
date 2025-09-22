@@ -74,6 +74,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/keyonm/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/keyonm/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/keyonm/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/keyonm/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/keyonm/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/keyonm/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/keyonm/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -506,6 +507,7 @@
 | [0042-trapping-rain-water](https://github.com/keyonm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/keyonm/leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keyonm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/keyonm/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -523,6 +525,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keyonm/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keyonm/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/keyonm/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Rolling Hash
 |  |
 | ------- |
