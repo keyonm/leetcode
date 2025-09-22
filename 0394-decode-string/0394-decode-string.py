@@ -1,25 +1,23 @@
 class Solution:
     def decodeString(self, s: str) -> str:
-        counts = []
-        strings = []
-        curr = ""
-        k = 0
-        for c in s:
+        self.i = 0
+        return self.decode(s)
+    def decode(self, s: str) -> str:
+        res, num = "", 0
+        while self.i < len(s):
+            c = s[self.i]
             if c.isdigit():
-                k = k * 10 + ord(c) - ord('0')
+                num = num * 10 + int(c)
+                self.i += 1
             elif c == '[':
-                counts.append(k)
-                strings.append(curr)
-                curr = ""
-                k = 0
+                self.i += 1
+                inner = self.decode(s)
+                res += inner * num
+                num = 0
             elif c == ']':
-                decoded = strings[-1]
-                strings.pop()
-                for i in range(counts[-1], 0, -1):
-                    decoded = decoded + curr
-                counts.pop()
-                curr = decoded
+                self.i += 1
+                return res
             else:
-                curr = curr + c
-
-        return curr
+                res += c
+                self.i += 1
+        return res
