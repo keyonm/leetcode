@@ -96,6 +96,7 @@
 | [0001-two-sum](https://github.com/keyonm/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keyonm/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/keyonm/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/keyonm/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/keyonm/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/keyonm/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/keyonm/leetcode/tree/master/0049-group-anagrams) |
@@ -160,6 +161,7 @@
 | [0005-longest-palindromic-substring](https://github.com/keyonm/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/keyonm/leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/keyonm/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/keyonm/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/keyonm/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/keyonm/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/keyonm/leetcode/tree/master/0022-generate-parentheses) |
@@ -198,6 +200,7 @@
 | [0007-reverse-integer](https://github.com/keyonm/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/keyonm/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/keyonm/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/keyonm/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/keyonm/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/keyonm/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/keyonm/leetcode/tree/master/0066-plus-one) |
